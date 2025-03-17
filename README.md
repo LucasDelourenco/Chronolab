@@ -6,6 +6,6 @@ Para abrir o jogo, será necessário:
 -Instalar a biblioteca 'Pygames'
 ​-Instalar a biblioteca 'PPlay'
 
-Após isso, basta abrir a pasta do projeto em um desses compilador e rodar, bom proveito!
+Após isso, basta abrir a pasta do projeto em um desses compiladores e rodar, bom proveito!
 
 Para baixar os requisitos siga as instruções do site: http://www2.ic.uff.br/pplay/instalacao/
